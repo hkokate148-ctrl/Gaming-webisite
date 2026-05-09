@@ -1,0 +1,25 @@
+C:\xampp\htdocs\gaming\
+│
+├── db.php
+├── games.php
+├── home.php
+├── play.php
+├── style.css
+│
+├── registration\
+│   ├── login.php
+│   ├── register.php
+│   ├── forgot.php
+│   ├── newpass.php
+│   ├── verify.php
+│   ├── logout.php
+│
+├── games_folder\
+│   ├── car_racing.php 
+│   ├── snakes_ladders.php
+│   ├── snakewatergun.php
+│   ├── tictactoe.php
+│
+├── images\
+├── sounds\
+├── games_video\
